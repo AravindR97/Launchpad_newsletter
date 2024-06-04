@@ -27,10 +27,11 @@ body {
             border-radius: 8px;
         }
 .header-image {
-            width: 50%;
-            height: auto;
             display: block;
             border-radius: 8px 8px 0 0;
+            width: 400px;
+            height: 200px;
+            object-fit: cover;
         }
 .main-heading {
             font-size: 28px;
